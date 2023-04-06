@@ -188,8 +188,8 @@ function AppendProduct(product) {
         description_outer_div.style.display = "flex";
     }
     descr_placeorder.addEventListener("click", () => {
-        localStorage.setItem("products", JSON.stringify([{ product_id: product.ProductId, quantity: 1 }]));
-        window.location.href = "/checkout";
+        localStorage.setItem("products", JSON.stringify([{ ProductId: product.ProductId, Quantity: 1 }]));
+        window.location.href = "/Checkout/checkout";
     })
 }
 
