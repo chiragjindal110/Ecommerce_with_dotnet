@@ -10,6 +10,7 @@ namespace Ecommerce
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<EcommerceContext>(options => 
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
