@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ecommerce.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\02ca3ebe2decac2773695c03d6c019fb.png",
+      "PackagePath": "staticwebassets\\Product_Images\\02ca3ebe2decac2773695c03d6c019fb.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\0352a05f081ae49b7f1f06297edda104.png",
+      "PackagePath": "staticwebassets\\Product_Images\\0352a05f081ae49b7f1f06297edda104.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\050efb128d2cb6a946fcfdebc3eee28e",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\1299118f9324d55695a4554d4e4fad33.png",
+      "PackagePath": "staticwebassets\\Product_Images\\1299118f9324d55695a4554d4e4fad33.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\28a211bcb8314457a24bd30820970df0.png",
+      "PackagePath": "staticwebassets\\Product_Images\\28a211bcb8314457a24bd30820970df0.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\3653bebce7572775c578a4eeda833661.png",
+      "PackagePath": "staticwebassets\\Product_Images\\3653bebce7572775c578a4eeda833661.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\36622cef390a6c8d3c713eef794c34f7",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\3911b2a50856c8e511981bec796ea492",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\3c58bfe3bb676225ba2dbd9ea0691943",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\4eae2e03fa04b7f93aa729b8b052ab47.png",
+      "PackagePath": "staticwebassets\\Product_Images\\4eae2e03fa04b7f93aa729b8b052ab47.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\55e8b168a25731b2e0319112e99e4a3f.png",
+      "PackagePath": "staticwebassets\\Product_Images\\55e8b168a25731b2e0319112e99e4a3f.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\579ffc35124a49bf95fb429497e99df2.png",
+      "PackagePath": "staticwebassets\\Product_Images\\579ffc35124a49bf95fb429497e99df2.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\641f8bc2e4949ec4a59bb72c8d757a3b",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\682c001a3a295f4317db48fcc45ad538",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\6c78d844ff57817c357156465bd6435c.png",
+      "PackagePath": "staticwebassets\\Product_Images\\6c78d844ff57817c357156465bd6435c.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\6d2fffb863b27bcc355910de8b69e9d4",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\737804952db020d2d80d0f2c4b7a5826",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\73edcaa90848f7dc505d0d03d9ca3059",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\87118217e8e90cea36b358ba92b78916",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\90129897a15b3c555f9a203688cb9ba5",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\91d0712c7890c67f5a9755b9325d59e1.png",
+      "PackagePath": "staticwebassets\\Product_Images\\91d0712c7890c67f5a9755b9325d59e1.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\927dcf118ed60c8cbd7c24a33b60ac26.png",
+      "PackagePath": "staticwebassets\\Product_Images\\927dcf118ed60c8cbd7c24a33b60ac26.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\9830a3c85ad394fef644262deed62960.png",
+      "PackagePath": "staticwebassets\\Product_Images\\9830a3c85ad394fef644262deed62960.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\9bc68852b156a79ea453f92748f9798d",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\9c056135cd20d2c34d3e9bd19611e258.png",
+      "PackagePath": "staticwebassets\\Product_Images\\9c056135cd20d2c34d3e9bd19611e258.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\a4c1d93328a7c45ddc135c6c9ce1afa0.png",
+      "PackagePath": "staticwebassets\\Product_Images\\a4c1d93328a7c45ddc135c6c9ce1afa0.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\ab72e7d9c21ea3fc59948c092b669c80",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\b27a90843e30db80c044076ca52dced5",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\b7f9ceb1d78a5538b7c804499cc99390",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\bananas.jpeg",
+      "PackagePath": "staticwebassets\\Product_Images\\bananas.jpeg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\bc48d289dcac4b5726b7d3912ca264aa.png",
+      "PackagePath": "staticwebassets\\Product_Images\\bc48d289dcac4b5726b7d3912ca264aa.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\broccoli.jpeg",
+      "PackagePath": "staticwebassets\\Product_Images\\broccoli.jpeg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\c223ed4575deb788fe485f7de0f4070c.png",
+      "PackagePath": "staticwebassets\\Product_Images\\c223ed4575deb788fe485f7de0f4070c.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\cd16d3a5dc0c0649b4c526b11d3feed8",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\cda3250940278177d244983e9c8f9a1e.png",
+      "PackagePath": "staticwebassets\\Product_Images\\cda3250940278177d244983e9c8f9a1e.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\change.cmd",
+      "PackagePath": "staticwebassets\\Product_Images\\change.cmd"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\d4ff63d1cc2a8901b3dd5ab913d9c80c.png",
+      "PackagePath": "staticwebassets\\Product_Images\\d4ff63d1cc2a8901b3dd5ab913d9c80c.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\dc276f0de0490cbb285d9b6fcb8d0bbd.png",
+      "PackagePath": "staticwebassets\\Product_Images\\dc276f0de0490cbb285d9b6fcb8d0bbd.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\dc615ab050be5781f5ac98a5943b0352",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\e7184687b2b46acd0b4cbc1e8e3f3c6c.png",
+      "PackagePath": "staticwebassets\\Product_Images\\e7184687b2b46acd0b4cbc1e8e3f3c6c.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\f63c20208f4cf8b0c2f7d5bf41aaf5ab.png",
+      "PackagePath": "staticwebassets\\Product_Images\\f63c20208f4cf8b0c2f7d5bf41aaf5ab.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\f80bc908b9847f4c9055a5c87a2d6628.png",
+      "PackagePath": "staticwebassets\\Product_Images\\f80bc908b9847f4c9055a5c87a2d6628.png"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\fca89e6a4db34c5e50001187cc2a5792",
+      "PackagePath": "staticwebassets\\Product_Images"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\onions.jpg",
+      "PackagePath": "staticwebassets\\Product_Images\\onions.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\potato.jpg",
+      "PackagePath": "staticwebassets\\Product_Images\\potato.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\Product_Images\\wp3351472.jpg",
+      "PackagePath": "staticwebassets\\Product_Images\\wp3351472.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\SellerDashboard.css",
+      "PackagePath": "staticwebassets\\css\\SellerDashboard.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\admin_page.css",
+      "PackagePath": "staticwebassets\\css\\admin_page.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\checkout_page.css",
+      "PackagePath": "staticwebassets\\css\\checkout_page.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\header-cart.css",
+      "PackagePath": "staticwebassets\\css\\header-cart.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\myorders.css",
+      "PackagePath": "staticwebassets\\css\\myorders.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\seller.css",
+      "PackagePath": "staticwebassets\\css\\seller.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\experience.jpg",
+      "PackagePath": "staticwebassets\\images\\experience.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\index-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\index-bg.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\profile_start_image.webp",
+      "PackagePath": "staticwebassets\\images\\profile_start_image.webp"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\register_image.jpg",
+      "PackagePath": "staticwebassets\\images\\register_image.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\seller-admin.jpg",
+      "PackagePath": "staticwebassets\\images\\seller-admin.jpg"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\images\\seller-bg.webp",
+      "PackagePath": "staticwebassets\\images\\seller-bg.webp"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\SellerDashboard.js",
+      "PackagePath": "staticwebassets\\js\\SellerDashboard.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\Sellerform.js",
+      "PackagePath": "staticwebassets\\js\\Sellerform.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\admin_page.js",
+      "PackagePath": "staticwebassets\\js\\admin_page.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\checkout_page.js",
+      "PackagePath": "staticwebassets\\js\\checkout_page.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\header.js",
+      "PackagePath": "staticwebassets\\js\\header.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\homeJavascript.js",
+      "PackagePath": "staticwebassets\\js\\homeJavascript.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\myorders.js",
+      "PackagePath": "staticwebassets\\js\\myorders.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\seller_orders.js",
+      "PackagePath": "staticwebassets\\js\\seller_orders.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Visual Studio Projects\\Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ecommerce.props",
+      "PackagePath": "build\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.props",
+      "PackagePath": "buildTransitive\\Ecommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

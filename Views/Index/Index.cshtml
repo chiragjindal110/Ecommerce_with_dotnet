@@ -1,0 +1,54 @@
+﻿@*@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Home</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ecommerce</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div id="container">
+        <div id="left-pane">
+            <h1 class="company-name">Healthifyy</h1><br><br>
+            <div class="content-div">
+                <p class="welcome-line">Welcome to Healthifyy,</p>
+                <p class="description-company">Get Organic <span style="color:#006400">Vegetables</span> and <span style="color:#cb410b">Fruits</span><br> at your door step</p>
+            </div>
+
+        </div>
+        <div id="right-pane">
+            <button id="continue" class="continue">Continue Without Login <i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+            <div class="login-signup" id="signup">
+                <h3 class="login-signup-heading">SignUp!!</h3>
+                <input class="user-input" id="signup-name" type="text" placeholder="Enter Name" required><br>
+                <input class="user-input" id="signup-email" type="email" placeholder="Enter Email" required><br>
+                <input class="user-input" id="signup-phone" type="number" placeholder="Enter Phone number" required><br>
+                <input class="user-input" id="signup-password" type="password" placeholder="Enter Password" required><br>
+                <button class="login-signup-submit" id="signup-submit">Submit</button>
+                <p class="login-signup-text" id="signup-text">Already a Customer?LogIn</p>
+            </div>
+            <div class="login-signup" id="login">
+                <h3 class="login-signup-heading">Login!!</h3>
+                <input class="user-input" id="login-email" type="email" placeholder="Enter Email" required><br>
+                <input class="user-input" id="login-password" type="password" placeholder="Enter Password" required><br>
+                <button class="login-signup-submit" id="login-submit">Submit</button>
+                <p id="forgot-password" style="color: blue;text-decoration: underline;cursor: pointer;">Forgot Password!!</p>
+                <p class="login-signup-text" id="login-text">New Customer?SignUp</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

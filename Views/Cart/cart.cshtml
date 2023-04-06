@@ -1,0 +1,34 @@
+﻿
+@model bool
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/css/header-cart.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/cart.css" />
+</head>
+
+<body>
+    <partial name="Header" />
+    <script>
+        document.getElementById("become-seller").style.display = "none";
+        document.getElementById("login-register-btn").addEventListener("click",()=>{window.location.href = "/Index/Index"})
+    </script>
+    <div id="container">
+        <div id="products-cart"></div>
+        <div id="checkout-div">
+            <div class="order-value-div">
+                <h2 class="order-value-text">Total Amount: ₹<span id="order-value">0</span>/-</h2>
+                <h2 class="order-value-text">Total Items: <span id="order-item">0</span></h2>
+            </div>
+            <div class="checkout-btns-div">
+                <button class="checkout-btns" id="home-btn">Return to home</button>
+                <button class="checkout-btns" id="placeorder-btn">Buy Now</button>
+
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="~/js/cart.js"></script>
+</body>
+
+</html>
