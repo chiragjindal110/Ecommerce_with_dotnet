@@ -161,6 +161,7 @@ function AppendProduct(product) {
         product_name1.value = product.ProductName;
         product_stock.value = product.Stock;
         product_price1.value = product.Price;
+        product_pic.value = "";
         image.style.backgroundImage = `url(../Product_images/${product.ProductPic})`;
         image.style.backgroundSize = "cover";
         isUpdatingFlag = true;
